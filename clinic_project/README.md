@@ -9,7 +9,7 @@ Python 3.10 or newer. No extra packages needed.
 
 ## How to run
 ```
-cd clinic_simple
+cd clinic_project
 python main.py
 ```
 Run the tests: `python -m unittest discover -s tests`
@@ -34,7 +34,7 @@ two appointments for the same clinician and time in the future instead.)
 
 ## Project structure
 ```
-clinic_simple/
+clinic_project/
   main.py                       starts the program
   clinic_app/                   all the program code (a Python package)
     __init__.py
@@ -69,5 +69,7 @@ clinic_simple/
 - **Error handling:** rules raise `ValueError` with a clear message; the menus catch it and print it.
 
 ## Git and project board
-Use feature branches (e.g. `feature/patients`, `feature/appointments`, `feature/reports`)
-with clear commit messages. Project board link: <add your Trello/Jira link here>
+GitHub repository:https://github.com/najah-starling1/clinic_Project.git
+Each feature was built on its own branch (for example `feature/patients`,
+  `feature/appointments`, `feature/reports`) and merged into `main`.
+ Project board:https://github.com/users/najah-starling1/projects/2/views/1
