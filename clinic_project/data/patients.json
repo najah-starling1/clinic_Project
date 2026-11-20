@@ -1,0 +1,38 @@
+[
+  {
+    "id": "P001",
+    "name": "Anisa Hassan",
+    "phone": "+254712345601",
+    "date_of_birth": "1994-03-12"
+  },
+  {
+    "id": "P002",
+    "name": "Zamzam Abdi",
+    "phone": "+254712345602",
+    "date_of_birth": "1988-07-25"
+  },
+  {
+    "id": "P003",
+    "name": "John Kamau",
+    "phone": "+254712345603",
+    "date_of_birth": "1975-11-02"
+  },
+  {
+    "id": "P004",
+    "name": "Fatuma Ali",
+    "phone": "+254712345604",
+    "date_of_birth": "2001-01-30"
+  },
+  {
+    "id": "P005",
+    "name": "Peter Otieno",
+    "phone": "+254712345605",
+    "date_of_birth": "1999-09-14"
+  },
+  {
+    "id": "P006",
+    "name": "Mary Wanjiku",
+    "phone": "+254712345606",
+    "date_of_birth": "1965-05-08"
+  }
+]

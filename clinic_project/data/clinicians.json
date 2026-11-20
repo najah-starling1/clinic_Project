@@ -1,0 +1,20 @@
+[
+  {
+    "id": "C001",
+    "name": "Grace Wanjiru",
+    "phone": "+254722000001",
+    "specialisation": "General Practice"
+  },
+  {
+    "id": "C002",
+    "name": "Samuel Kiptoo",
+    "phone": "+254722000002",
+    "specialisation": "Pediatrics"
+  },
+  {
+    "id": "C003",
+    "name": "Halima Said",
+    "phone": "+254722000003",
+    "specialisation": "Dermatology"
+  }
+]

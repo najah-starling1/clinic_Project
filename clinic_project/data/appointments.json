@@ -1,0 +1,56 @@
+[
+  {
+    "id": "A001",
+    "patient_id": "P001",
+    "clinician_id": "C001",
+    "date": "2026-12-01",
+    "time": "09:00",
+    "purpose": "General check-up",
+    "status": "scheduled"
+  },
+  {
+    "id": "A002",
+    "patient_id": "P002",
+    "clinician_id": "C001",
+    "date": "2026-12-01",
+    "time": "09:30",
+    "purpose": "Follow-up visit",
+    "status": "scheduled"
+  },
+  {
+    "id": "A003",
+    "patient_id": "P003",
+    "clinician_id": "C003",
+    "date": "2026-12-01",
+    "time": "10:00",
+    "purpose": "Skin rash review",
+    "status": "scheduled"
+  },
+  {
+    "id": "A004",
+    "patient_id": "P004",
+    "clinician_id": "C002",
+    "date": "2026-12-02",
+    "time": "11:00",
+    "purpose": "Vaccination",
+    "status": "cancelled"
+  },
+  {
+    "id": "A005",
+    "patient_id": "P005",
+    "clinician_id": "C001",
+    "date": "2026-11-16",
+    "time": "14:00",
+    "purpose": "Blood pressure check",
+    "status": "completed"
+  },
+  {
+    "id": "A006",
+    "patient_id": "P006",
+    "clinician_id": "C002",
+    "date": "2026-12-03",
+    "time": "15:00",
+    "purpose": "Flu symptoms",
+    "status": "scheduled"
+  }
+]
